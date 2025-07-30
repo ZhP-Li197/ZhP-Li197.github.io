@@ -31,7 +31,7 @@ latest_posts:
 
 **Research Interests.** Zhengpin's research is primarily focused on graph mining, trustworthy machine learning, large language model, and extreme value theory. He has published several papers in top venues such as ICML, WebConf, and Neural Networks. Most recently, he is interested in the following topics,  
 + LLM reasoning based on knowledge graphs
++ data-centric LLM pre- and post-training
 + graph foundation models
 
-If you wish to collaborate with me, please send an email to zhengpinli197 [at] gmail [dot] com.
-
+Email: zhengpinli197 [at] gmail [dot] com.
