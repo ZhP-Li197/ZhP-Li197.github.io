@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Publications/
+permalink: /PUBLICATIONS/
 title: Publications
 description: † indicates equal contribution
 nav: true
