@@ -14,14 +14,14 @@ ninja.data = [{
           description: "† indicates equal contribution",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Publications/";
+            window.location.href = "/PUBLICATIONS/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/TEACHING/";
           },
         },{id: "nav-cv",
           title: "CV",
