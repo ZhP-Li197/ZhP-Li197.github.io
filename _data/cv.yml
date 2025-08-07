@@ -22,14 +22,14 @@
       institution: School of Data Science, Fudan University
       year: 2019 - 2025
       description:
-        - Supervisors: Yanxi Hou and Jian Wang
+        - <u>Supervisors:<u> Yanxi Hou and Jian Wang
         - Successive Postgraduate and Doctoral Program
 
     - title: Visiting Student
       institution: Department of Computer Science, Yale University
       year: 2024
       description:
-        - Supervisor: Rex (Zhitao) Ying
+        - <u>Supervisor:<u> Rex (Zhitao) Ying
 
     - title: B.S. in Mathematics
       institution: School of Mathematics, Shandong University
@@ -40,7 +40,7 @@
   contents:
     - title: Quantitative Researcher
       institution: Innovation Asset Management Co., Ltd.
-      year: May 2025 - July 2025
+      year: May - July 2025
 
 - title: Publications
   type: list
@@ -65,8 +65,8 @@
   contents:
     - title: Academic Reviewer
       items:
-        - Journals: IEEE Transactions on Signal and Information Processing over Networks, IEEE Transactions on Signal Processing, and IEEE Signal Processing Letters
-        - Conferences: ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2025, and ACM Web Conference 2025
+        - <u>Journals:<u> IEEE Transactions on Signal and Information Processing over Networks, IEEE Transactions on Signal Processing, and IEEE Signal Processing Letters
+        - <u>Conferences:<u> ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2025, and ACM Web Conference 2025
     - title: Teaching Assistant at Fudan University 
       items:
         - Multivariate Statistical Analysis, Big Data Analytic, Time Series Analysis, and Optimization Theory 
@@ -75,6 +75,7 @@
   type: nested_list
   contents:
     - title: Participant in
+    items:
     - Research on Coal Supply Chain Management Based on Graph Computing, CCTEG
     - Research on Fast Algorithms for Sparse Phase Retrieval, NSFC
     - Innovation and Cross-disciplinary Team on Laser Correlation Imaging Radar, CAS
